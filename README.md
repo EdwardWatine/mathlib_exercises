@@ -1,13 +1,8 @@
 # mathlib_exercises
 
-## GitHub configuration
+The primary aim of this repo is to provide a series of exercises for exploring some useful areas of Mathlib, and some tactics. The `Tactics` folder provides some skeletons demonstrating certain tactics. This has `sorry`s in it to finish as very basic exercises.
 
-To set up your new GitHub repository, follow these steps:
+The `Exercises` folder contains some somewhat interesting theorems with no proof provided. A sample proof is contained in the corresponding `Solutions` folder. These proofs are worth looking at, as they may contain a tactic that is helpful for the specific problem. Many tactics simply replace a couple of lines of code, and so aren't strictly necessary, but help readability.
 
-* Under your repository name, click **Settings**.
-* In the **Actions** section of the sidebar, click "General".
-* Check the box **Allow GitHub Actions to create and approve pull requests**.
-* Click the **Pages** section of the settings sidebar.
-* In the **Source** dropdown menu, select "GitHub Actions".
-
-After following the steps above, you can remove this section from the README file.
+The secondary aim of this project was to trial the ability of AI. These files have been heavily edited, but the solutions are not necessarily perfect code. This is largely for exposition.
+FWIW, Claude was fine at this. I would give it 7/10.
